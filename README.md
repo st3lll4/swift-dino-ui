@@ -1,1 +1,1 @@
-this is just for trying out swift a bit before doing sth serious 
+This is just for trying out Swift a bit before anything bigger.
